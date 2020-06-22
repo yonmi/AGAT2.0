@@ -1,8 +1,8 @@
 # AGAT2.0
 
-Work on progress on a tool gathering some useful libraries in the field of image processing especially in hierarchical segmentation. 
+Tool gathering some useful libraries in the field of image processing especially in hierarchical segmentation. 
 
-Take a look at the 3 projects linked below in order to have an idea on what will be gathered in this library.
+Take a look at our 3 projects linked below in order to have an idea on what will be gathered in this library.
 
 &bull; [BPT](https://github.com/yonmi/BinaryPartitionTree/blob/master/src/standard/sequential/BPT.java):</b> Binary Partition Tree </br>
 &bull; [MBPT](https://github.com/yonmi/BinaryPartitionTree/blob/master/src/multi/sequential/MBPT.java):</b> Multi-feature Binary Partition Tree
