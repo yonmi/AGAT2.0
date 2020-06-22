@@ -2,6 +2,8 @@
 
 User Interface (UI) Tool gathering some useful libraries in the field of image processing especially in hierarchical segmentation. 
 
+Work on progress...
+
 &bull; [BPT](https://github.com/yonmi/BinaryPartitionTree/blob/master/src/standard/sequential/BPT.java):</b> Binary Partition Tree </br>
 &bull; [MBPT](https://github.com/yonmi/BinaryPartitionTree/blob/master/src/multi/sequential/MBPT.java):</b> Multi-feature Binary Partition Tree
 
