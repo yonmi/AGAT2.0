@@ -1,6 +1,6 @@
 # AGAT2.0: Building and evaluating binary partition trees for image segmentation
 
-AGAT is a Java project gathering some useful libraries for efficient construction and evaluation of binary partition trees (BPT) with a special focus on image segmentation. The Binary Partition Tree (BPT) is a classical data structure for the hierarchical modelling of images at different scales. BPTs belong both to the families of graph-based models and morphological hierarchies. They constitute an efficient way to define sets of nested partitions of image support, that further provide knowledge-guided reduced research spaces for optimization-based segmentation procedures. 
+AGAT is a Java project gathering some useful libraries for efficient construction and evaluation of binary partition trees (BPT) with a special focus on image segmentation. The binary partition tree (BPT) is a classical data structure for the hierarchical modelling of images at different scales. BPTs belong both to the families of graph-based models and morphological hierarchies. They constitute an efficient way to define sets of nested partitions of image support, that further provide knowledge-guided reduced research spaces for optimization-based segmentation procedures. 
 
 Some of the main features of AGAT are:
 - graph-based methods and efficient data structures to handle hierarchical image representations;
