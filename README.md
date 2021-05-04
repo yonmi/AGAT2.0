@@ -9,7 +9,7 @@ Some of the main features of AGAT are:
 - assesment of the quality of binary partition trees (i.e. their ability to allow further segmentation methods to compute good results) with state-of-the-art methods;
 - image toolbox: special methods dedicated to hierarchical image analysis. 
 
-![](https://github.com/yonmi/BinaryPartitionTree/blob/master/fig1.png
+![](https://github.com/yonmi/BinaryPartitionTree/blob/master/fig1.png)
 
 ## Installation
 
