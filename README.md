@@ -34,6 +34,6 @@ Some of the main features of AGAT are:
 ## Demonstration and code samples
 <b>Getting started:</b> 
 - you can start with some [examples](https://github.com/yonmi/BinaryPartitionTree/tree/master/src/examples) to build BPTs
-- and then to evluate them with [code samples](https://github.com/yonmi/TreeEvaluation/tree/master/src/experiences/)
+- and then to evaluate them with [code samples](https://github.com/yonmi/TreeEvaluation/tree/master/src/experiences/)
 
 
