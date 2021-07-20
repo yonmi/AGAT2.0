@@ -38,7 +38,7 @@ Some of the main features of AGAT are:
 
 ## Third-party libraries
 AGAT2.0 bundles some third-party libraries:
-- [jai_codec](http://svnsis.ethz.ch/repos/cisd/ivy-repository/trunk/sis/sis-jhdf5/14.12.1/), [jai_core](http://svnsis.ethz.ch/repos/cisd/ivy-repository/trunk/sis/sis-jhdf5/14.12.1/), [jai_imageio](http://svnsis.ethz.ch/repos/cisd/ivy-repository/trunk/sis/sis-jhdf5/14.12.1/) are parts of the <b>Java Advanced Imaging API</b> which is a set of image encoder/decoder (codec) classes - [Java Research License (JRL)](https://github.com/mauricio/jai-core/blob/master/LICENSE-JRL.txt)
+- [jai_codec](https://www.oracle.com/java/technologies/advanced-imaging-api.html), [jai_core](https://www.oracle.com/java/technologies/advanced-imaging-api.html), [jai_imageio](https://www.oracle.com/java/technologies/advanced-imaging-api.html) are parts of the <b>Java Advanced Imaging API</b> which is a set of image encoder/decoder (codec) classes - [Java Research License (JRL)](https://github.com/mauricio/jai-core/blob/master/LICENSE-JRL.txt)
 - [sis-jhdf5](http://svnsis.ethz.ch/repos/cisd/ivy-repository/trunk/sis/sis-jhdf5/14.12.1/) helps to manage <b>HDF5</b> file formats - [Apache License 2.0](
 http://www.apache.org/licenses/LICENSE-2.0)
 
