@@ -36,6 +36,9 @@ Some of the main features of AGAT are:
 - you can start with some [examples](https://github.com/yonmi/BinaryPartitionTree/tree/master/src/examples) to build BPTs
 - and then to evaluate them with [code samples](https://github.com/yonmi/TreeEvaluation/tree/master/src/experiences/)
 
+## License
+The license [Cecill-B](http://www.cecill.info/licences/Licence_CeCILL-B_V1-en.txt) is fully compatible with BSD-like licenses (BSD, X11, MIT) with an attribution requirement.
+
 ## Third-party libraries
 AGAT2.0 bundles some third-party libraries:
 - [jai_codec](https://www.oracle.com/java/technologies/advanced-imaging-api.html), [jai_core](https://www.oracle.com/java/technologies/advanced-imaging-api.html), [jai_imageio](https://www.oracle.com/java/technologies/advanced-imaging-api.html) are parts of the <b>Java Advanced Imaging API</b> which is a set of image encoder/decoder (codec) classes - [Java Research License (JRL)](https://github.com/mauricio/jai-core/blob/master/LICENSE-JRL.txt)
